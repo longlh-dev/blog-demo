@@ -70,3 +70,6 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem 'devise'
+gem 'pry', '~> 0.14.2'
